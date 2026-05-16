@@ -541,7 +541,7 @@ function renderProjects() {
                 he: 'מערכת רישום וניהול מקוונת לסדנאות ואירועים',
             },
             technologies: ['PHP', 'MySQL'],
-            image: "image4.png",
+            image: "image3.png",
             gradient: 'linear-gradient(135deg, #8b5cf6, #ec4899)',
         },
         {
